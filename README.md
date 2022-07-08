@@ -1,7 +1,7 @@
 ## An Empirical Evaluation of GitHub Copilot's Code Generation
 *Requirements:*
 - [python-decouple package](https://pypi.org/project/python-decouple/) (Can be installed with Pyhton Package Installer, pip using command: *pip install python-decouple*)
-- [openai package](https://pypi.org/project/openai/) (Can be installed with Pyhton Package Installer, pip using command: *pip install openai*)
+- [openai package](https://pypi.org/project/openai/) (Can be installed with Python Package Installer, pip using command: *pip install openai*)
 - [Sonarqube API](https://docs.sonarqube.org/latest/extend/web-api/) and [OpenAI API](https://openai.com/api/) keys
 
 *Experiment Steps:*
